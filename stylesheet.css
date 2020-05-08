@@ -1,0 +1,124 @@
+li{
+  list-style: none;
+}
+*{
+  margin:0;
+  padding: 0;
+}
+
+header{
+  background-image: url(https://cdn.pixabay.com/photo/2016/03/04/19/36/beach-1236581_960_720.jpg);
+  background-size: cover;
+  height: 800px;
+  
+}
+.header-logo{
+  text-align: center;
+  color: whitesmoke;
+  padding-top: 65px;
+  letter-spacing: 10px;
+  font-size: 30px;
+  font-family: 'Alex Brush', cursive;
+}
+.about{
+  background-color: #ffeddb;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+h2{
+  border-bottom: 1px solid black;
+  padding-top: 64px;
+  font-size: 45px;
+  padding-left: 30px;
+  
+}
+.right-contents{
+  width: 50%;
+  background-color: #ffeddb;
+  float: left;
+  height: 500px;
+}
+.right-contents img{
+  height: 400px;
+  padding-left: 150px;
+}
+.left-contents{
+  background-color: #ffeddb;
+  margin-top: 0px;
+  height: 500px;
+  padding-top: 15px;
+}
+.left-contents p{
+  font-size: 30px;
+  font-weight: bold;
+}
+.left-contents li{
+  margin-top: 15px;
+  opacity: 0.7;
+}
+.main{
+  height: 900px;
+  
+}
+.main h3{
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Dancing Script', cursive;
+  margin-bottom: 200px;
+  margin-top: 30px;
+}
+.left-item{
+  width: 50%;
+  float: left;
+}
+
+.left-item img{
+  
+  padding-left: 150px;
+  width: 400px;
+}
+h4{
+  text-align: center;
+  font-size: 24px;
+  margin-top: 50px;
+}
+.main p{
+  text-align: center;
+}
+.right-item{
+  width: 50%;
+  float: left;
+}
+.trs{
+  width: 400px;
+  margin-left: 150px;
+  
+}
+.last-main{
+  text-align: center;
+  background-color: #bbded6;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+h5{
+  font-size: 45px;
+  margin-bottom: 24px;
+  font-family: 'Arvo', serif;
+}
+.last-main p{
+  margin-bottom: 50px;
+  letter-spacing: 5px;
+}
+footer{
+  background-color: #a39391;
+  color: white;
+  height: 300px;
+  padding-left: 30px;
+}
+footer li{
+  font-size: 15px;
+  float: left;
+  padding-right: 30px;
+  padding-top: 30px;
+}
